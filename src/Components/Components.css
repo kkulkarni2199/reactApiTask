@@ -1,0 +1,32 @@
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #5a5a66;
+    color: white;
+    text-align: center;
+}
+
+.header{
+    position: fixed;
+    top: 0;
+    margin-bottom: 20px;
+    font-size: xx-large;
+    color: white;
+    width: 100%;
+    text-align: center;
+    background-color: #8F3985;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+button{
+    font-size: large;
+    font-family: cursive;
+}
+
+.textbox{
+    padding: 10px;
+    margin: 20px;
+}
